@@ -35,9 +35,7 @@ const VideoPlayer: React.FC = () => {
         <p className="text-white/70 text-sm">
           🎬 <strong>Vidéo YouTube personnalisée</strong> - Profitez de votre récompense !
         </p>
-        <p className="text-white/50 text-xs mt-2">
-          ✅ Vidéo YouTube Shorts intégrée avec succès !
-        </p>
+
       </div>
     </motion.div>
   );
