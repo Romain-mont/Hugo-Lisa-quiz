@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { motion } from 'framer-motion';
 
 const VideoPlayer: React.FC = () => {
-  const [isPlaying, setIsPlaying] = useState(false);
-
   // ID de votre vidéo YouTube Shorts
   const youtubeVideoId = "6jnTkMFIes8";
   const youtubeUrl = `https://www.youtube.com/embed/${youtubeVideoId}?autoplay=0&rel=0&modestbranding=1`;
