@@ -2,6 +2,7 @@
   "name": "hugo-lisa-quiz",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://romain-mont.github.io/Hugo-Lisa-quiz",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.7.0",
